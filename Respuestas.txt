@@ -1,0 +1,5 @@
+1) Se puede solucionar de dos formas si se quiere volver al contenido original una es poniendo git checkout master o git checkout [Codigo identificativo del comit]
+Así podremos volver al head y evitar ese error
+
+2)Crearemos una nueva rama donde haremos el cambio, luego iremos a la rama master y desde ahí haremos un merge con la rama creada nueva, en este caso es Modificaciones
+Haremos el merge y después solucioremos el conflicto cogiendo cual de las letras queremos, 
