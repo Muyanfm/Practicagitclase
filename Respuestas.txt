@@ -2,4 +2,5 @@
 Así podremos volver al head y evitar ese error
 
 2)Crearemos una nueva rama donde haremos el cambio, luego iremos a la rama master y desde ahí haremos un merge con la rama creada nueva, en este caso es Modificaciones
-Haremos el merge y después solucioremos el conflicto cogiendo cual de las letras queremos, 
+Haremos el merge y después solucioremos el conflicto cogiendo cual de las letras queremos,Para ello nos marca que es cada rama y nosotros borramos en este caso la M y sustituimos por la N
+ 
